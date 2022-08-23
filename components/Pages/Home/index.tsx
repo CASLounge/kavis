@@ -28,7 +28,7 @@ const Home = () => {
         method: 'POST', 
         body: JSON.stringify(values),
         headers: new Headers({
-          'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySW5mbyI6eyJ1c2VySWQiOiIwZDNmZTdlNi0zODkxLTRhMjItYjRmNS1jNGU1YzAzYmQ2OWMiLCJ1c2VyTmFtZSI6ImpsaWdvbmVzIiwidXNlclR5cGUiOiJTVFVERU5UIn0sImlhdCI6MTY2MTAwMzU0OSwiZXhwIjoxNjYxMDA3MTQ5fQ.KC71rLKcVJHct08VVGLCI8eXUFEuDmrYdmCtZQVNqaw',
+          'Authorization': 'Bearer ',
           'Content-Type': 'application/json'
         })
       })
