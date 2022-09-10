@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/lozanasc-projects/CASLounge">
-    <img src="./logo-web.png" alt="Logo" height="80">
+  <a href="https://github.com/CASLounge">
+    <img src="./repo/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">CASLounge Web</h3>
